@@ -1,4 +1,4 @@
-# Awesome Docker Security [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+## Awesome Docker Security
 
 List of awesome resources about docker security included books, blogs, video, tools and cases.
 
